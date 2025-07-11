@@ -159,6 +159,87 @@ main{
     margin: 30px;
     padding: 10px 0px 10px;
     font-weight: 800;
-
+}
+/*Footer style*/
+footer{
+    
+    padding: 130px 230px;
+    display: flex;
+    gap: 50px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(50, 50, 50);
+    display: block;
+    width: 85%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    font-size: 16px;
+}
+.email-font{
+     height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    color: rgb(50, 50, 50);
+    display: block;
+    width: 85%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    font-size: 16px;
 
 }
+.submit-btn{
+    text-align: center;
+    display: flex;
+    margin-left: 620px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
